@@ -1,0 +1,39 @@
+# Core Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.metadata
+build/
+
+# Platforms
+**/android/.gradle
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/windows/**/flutter/generated_*.*
+**/linux/**/flutter/generated_*.*
+**/macos/**/GeneratedPluginRegistrant.swift
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Secrets
+.env
+*.env
+*.env.local
+*.env.production
+
+# Binaries / installers
+*.apk
+# Misc
+pubspec.lock
