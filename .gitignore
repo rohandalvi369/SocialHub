@@ -34,6 +34,6 @@ build/
 *.env.production
 
 # Binaries / installers
-*.apk
+# (tracked via Git LFS)
 # Misc
 pubspec.lock
