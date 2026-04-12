@@ -1,4 +1,4 @@
-# Replace the boilerplate README with this one
+#README
 cp README.md /path/to/SocialHub/README.md
 git add README.md
 git commit -m "docs: add comprehensive README"
